@@ -3,3 +3,6 @@
 ################################################################################
 
 /Plugins/ExternalService.Yahoo/bin
+/Plugins/ExternalService.Yahoo/obj
+/Solutions/.vs/ExternalService.Yahoo/v15
+/.vs
